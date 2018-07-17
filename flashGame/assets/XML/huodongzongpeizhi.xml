@@ -1,2 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<main><node id="1" type="tili" plat="[test]" server="[1]" icon="huodong_icon1" name="领体力" desc="按时间段领取体力" args="200" kaifang="1"/><node id="2" type="canbai" plat="[test]" server="[1]" icon="huodong_icon2" name="宠幸" desc="两天可以领取道具" args="600" kaifang="1"/></main>

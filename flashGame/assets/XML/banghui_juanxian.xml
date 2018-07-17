@@ -1,2 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<main><node id="1" title="初级建设" cost="20000" type="money" get_banghuijianshe="20" get_gerengongxian="200"/><node id="2" title="中级建设" cost="20" type="cash" get_banghuijianshe="60" get_gerengongxian="400"/><node id="3" title="高级建设" cost="200" type="cash" get_banghuijianshe="100" get_gerengongxian="2000"/></main>
